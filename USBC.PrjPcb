@@ -44,7 +44,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VCEDNNUB
 
 [Document2]
-DocumentPath=C:\Users\jeffa\Google Drive\Personal\CAD\Altium\lib\Schematic_Button.SchLib
+DocumentPath=..\..\..\Altium\lib\Schematic_Button.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-DocumentPath=C:\Users\jeffa\Google Drive\Personal\CAD\Altium\lib\Schematic_Connector.SchLib
+DocumentPath=..\..\..\Altium\lib\Schematic_Connector.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=USIXIBOS
 
 [Document4]
-DocumentPath=C:\Users\jeffa\Google Drive\Personal\CAD\Altium\lib\Schematic_Diode.SchLib
+DocumentPath=..\..\..\Altium\lib\Schematic_Diode.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=C:\Users\jeffa\Google Drive\Personal\CAD\Altium\lib\Schematic_Fuse.SchLib
+DocumentPath=..\..\..\Altium\lib\Schematic_Fuse.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -123,7 +123,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=C:\Users\jeffa\Google Drive\Personal\CAD\Altium\lib\Schematic_Generic.SchLib
+DocumentPath=..\..\..\Altium\lib\Schematic_Generic.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140,7 +140,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MWEBXOSB
 
 [Document7]
-DocumentPath=C:\Users\jeffa\Google Drive\Personal\CAD\Altium\lib\Schematic_IC.SchLib
+DocumentPath=..\..\..\Altium\lib\Schematic_IC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -154,10 +154,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JQQRSQIE
 
 [Document8]
-DocumentPath=C:\Users\jeffa\Google Drive\Personal\CAD\Altium\lib\Schematic_LED.SchLib
+DocumentPath=..\..\..\Altium\lib\Schematic_LED.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -174,7 +174,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=C:\Users\jeffa\Google Drive\Personal\CAD\Altium\lib\Schematic_MCU.SchLib
+DocumentPath=..\..\..\Altium\lib\Schematic_MCU.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -188,10 +188,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DDNDTMGW
 
 [Document10]
-DocumentPath=C:\Users\jeffa\Google Drive\Personal\CAD\Altium\lib\Schematic_PMIC.SchLib
+DocumentPath=..\..\..\Altium\lib\Schematic_PMIC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -205,10 +205,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BKFHQYCU
 
 [Document11]
-DocumentPath=C:\Users\jeffa\Google Drive\Personal\CAD\Altium\lib\Schematic_Switch.SchLib
+DocumentPath=..\..\..\Altium\lib\Schematic_Switch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -225,7 +225,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=C:\Users\jeffa\Google Drive\Personal\CAD\Altium\lib\Schematic_Transistor.SchLib
+DocumentPath=..\..\..\Altium\lib\Schematic_Transistor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -241,8 +241,42 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AJPKEIRS
 
+[Document13]
+DocumentPath=USBC.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KWJKVDGX
+
+[Document14]
+DocumentPath=..\..\..\Altium\lib\Schematic_Inductor.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TTJXTLVB
+
 [SearchPath1]
-Path=C:\Users\jeffa\Google Drive\Personal\CAD\Altium\lib\*.*
+Path=..\..\..\Altium\lib\*.*
 IncludeSubFolders=1
 
 [Configuration1]
@@ -364,7 +398,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=HPFC15B49E74CC (HP Officejet Pro 8620)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1067,7 +1101,7 @@ Type6=2
 Type7=0
 Type8=1
 Type9=1
-Type10=1
+Type10=0
 Type11=2
 Type12=0
 Type13=0
@@ -1222,10 +1256,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Schematic_IC.SchLib
+ComponentDesignItemID0=STUSB4500QTR
+ComponentSymbolReference0=STUSB4500QTR
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1239,6 +1279,57 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Case/Package
+ParameterUpdate0=1
+ParameterName1=Comment
+ParameterUpdate1=1
+ParameterName2=Component Kind
+ParameterUpdate2=1
+ParameterName3=ComponentLink1Description
+ParameterUpdate3=1
+ParameterName4=ComponentLink1URL
+ParameterUpdate4=1
+ParameterName5=ComponentLink2Description
+ParameterUpdate5=1
+ParameterName6=ComponentLink2URL
+ParameterUpdate6=1
+ParameterName7=ComponentLink3Description
+ParameterUpdate7=1
+ParameterName8=ComponentLink3URL
+ParameterUpdate8=1
+ParameterName9=ComponentLink4Description
+ParameterUpdate9=1
+ParameterName10=ComponentLink4URL
+ParameterUpdate10=1
+ParameterName11=Description
+ParameterUpdate11=1
+ParameterName12=Interface
+ParameterUpdate12=1
+ParameterName13=Library Reference
+ParameterUpdate13=1
+ParameterName14=Manufacturer
+ParameterUpdate14=1
+ParameterName15=Manufacturer Part Number
+ParameterUpdate15=1
+ParameterName16=Max Operating Temperature
+ParameterUpdate16=1
+ParameterName17=Min Operating Temperature
+ParameterUpdate17=1
+ParameterName18=Packaging
+ParameterUpdate18=1
+ParameterName19=Pricing 1
+ParameterUpdate19=1
+ParameterName20=RoHS
+ParameterUpdate20=1
+ParameterName21=Stock 1
+ParameterUpdate21=1
+ParameterName22=Supplier 1
+ParameterUpdate22=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=QFN50P400X400X100_HS-25N
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
