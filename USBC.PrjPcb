@@ -258,6 +258,27 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TTJXTLVB
 
+[Document14]
+DocumentPath=USBC.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KREVSBMU
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for USBC\Design Rule Check - USBC.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\..\..\Altium\lib\*.*
 IncludeSubFolders=1
